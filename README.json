@@ -1,0 +1,611 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "WebdriverIO Ecosystem"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Image Comparison (Visual Regression Testing)",
+          "description": "Image comparison and visual regression testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-27T15:37:04Z",
+            "owner": "webdriverio",
+            "repo": "visual-testing",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wdi5",
+          "description": "Cross-platform test framework for hybrid UI5 apps. wdi5 = Webdriver.IO + UI5 Test API + appium.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-01T01:14:18Z",
+            "owner": "ui5-community",
+            "repo": "wdi5",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Intercept",
+          "description": "Capture and assert HTTP ajax calls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-10T01:01:20Z",
+            "owner": "webdriverio-community",
+            "repo": "wdio-intercept-service",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docker",
+          "description": "Helps run functional/integration tests against/using containerized applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-24T20:22:42Z",
+            "owner": "webdriverio-community",
+            "repo": "wdio-docker-service",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChromeDriver",
+          "description": "Run Chrome browser seamlessly when running tests.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-08-03T23:56:12Z",
+            "owner": "webdriverio-community",
+            "repo": "wdio-chromedriver-service",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWS Device Farm",
+          "description": "AWS Device Farm service.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T00:06:26Z",
+            "owner": "awslabs",
+            "repo": "wdio-aws-device-farm-service",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PerformanceTotal",
+          "description": "Analyze performance of test automated flows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-24T09:04:54Z",
+            "owner": "tzurp",
+            "repo": "performance-total",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Re-run",
+          "description": "Tracks failing tests and scenarios, allowing failing or unstable tests or scenarios to be re-run.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-13T20:50:45Z",
+            "owner": "webdriverio-community",
+            "repo": "wdio-rerun-service",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gmail",
+          "description": "Fetch e-mails from Google Mail.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-09T21:49:49Z",
+            "owner": "webdriverio-community",
+            "repo": "wdio-gmail-service",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WireMock",
+          "description": "Run WireMock seamlessly when running tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-02-21T02:38:44Z",
+            "owner": "erwinheitzman",
+            "repo": "wdio-wiremock-service",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LambdaTest",
+          "description": "Manage tunnel and job metadata for LambdaTest users.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-16T20:38:05Z",
+            "owner": "LambdaTest",
+            "repo": "wdio-lambdatest-service",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OCR service for Appium Native Apps",
+          "description": "Run Tesseract OCR for Appium Native App tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-12-20T16:39:02Z",
+            "owner": "wswebcreation",
+            "repo": "wdio-ocr-service",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Novus Visual Regression",
+          "description": "Visual regression testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-03T09:33:34Z",
+            "owner": "Jnegrier",
+            "repo": "wdio-novus-visual-regression-service",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tracelane",
+          "description": "Records failed end-to-end tests as self-contained, offline-replayable HTML reports with session replay, console and failed-network panels. No backend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-10T16:00:26Z",
+            "owner": "Cubenest",
+            "repo": "rrweb-stack",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeckoDriver",
+          "description": "Run Gecko browser seamlessly when running tests.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-08-03T23:53:16Z",
+            "owner": "webdriverio-community",
+            "repo": "wdio-geckodriver-service",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Report Portal",
+          "description": "Service used by Report Portal Reporter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-04T03:51:17Z",
+            "owner": "BorisOsipov",
+            "repo": "wdio-reportportal-service",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slack",
+          "description": "Send test results as a slack notification/message to channels.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-27T05:11:36Z",
+            "owner": "carmenmitru",
+            "repo": "wdio-slack-service",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ng-apimock",
+          "description": "Service used by @ng-apimock/core.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-06T19:10:38Z",
+            "owner": "ng-apimock",
+            "repo": "webdriverio-plugin",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SafariDriver",
+          "description": "Run Safari browser seamlessly when running tests.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-08-03T23:51:51Z",
+            "owner": "webdriverio-community",
+            "repo": "wdio-safaridriver-service",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "winappdriver",
+          "description": "Run WinAppDriver server seamlessly when running tests.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2021-08-09T15:59:45Z",
+            "owner": "licanhua",
+            "repo": "wdio-winappdriver-service",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EdgeDriver",
+          "description": "Run Microsoft Edge browser seamlessly when running tests.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-08-03T23:54:33Z",
+            "owner": "webdriverio-community",
+            "repo": "wdio-edgedriver-service",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zafira Listener",
+          "description": "Report tests to Zafira Dashboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-08-27T17:37:53Z",
+            "owner": "shashidharus",
+            "repo": "wdio-zafira-listener-service",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CleanupTotal",
+          "description": "Proper cleanup after each test made easy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-08-05T08:47:45Z",
+            "owner": "tzurp",
+            "repo": "cleanup-total",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Auto-detect missing imports w/eslint",
+          "description": "Automatically run eslint checks prior to executing tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-16T09:32:56Z",
+            "owner": "jamesmortensen",
+            "repo": "wdio-eslinter-service",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ywinappdriver",
+          "description": "Run ywinappdriver server seamlessly when running tests.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2020-11-30T05:07:46Z",
+            "owner": "licanhua",
+            "repo": "wdio-ywinappdriver-service",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wopee.wdio",
+          "description": "Visual regression testing service by Wopee.io with autonomous test maintenance and AI-powered healing.",
+          "children": []
+        }
+      ],
+      "title": "Services"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Timeline",
+          "description": "Report results in an aggregated visualisation interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-12-30T17:41:44Z",
+            "owner": "QualityOps",
+            "repo": "wdio-timeline-reporter",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Report Portal",
+          "description": "Report results to Report Portal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-02T17:18:21Z",
+            "owner": "BorisOsipov",
+            "repo": "wdio-reportportal-reporter",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CucumberJS",
+          "description": "Report results in CucumberJS JSON format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-18T16:43:15Z",
+            "owner": "webdriverio-community",
+            "repo": "wdio-cucumberjs-json-reporter",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mochawesome",
+          "description": "Report results in Mochawesome format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-21T23:55:24Z",
+            "owner": "webdriverio-community",
+            "repo": "wdio-mochawesome-reporter",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON",
+          "description": "Report results in JSON format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-30T13:19:43Z",
+            "owner": "jemishgopani",
+            "repo": "wdio-json-reporter",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Teamcity",
+          "description": "Report results to the build results page of Teamcity Portal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-27T09:15:04Z",
+            "owner": "webdriverio-community",
+            "repo": "wdio-teamcity-reporter",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Markdown",
+          "description": "Report results in Markdown format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-12-26T15:12:27Z",
+            "owner": "carmenmitru",
+            "repo": "wdio-markdown-reporter",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Video",
+          "description": "Makes videos of failed tests and has optional allure integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-18T10:17:46Z",
+            "owner": "presidenten",
+            "repo": "wdio-video-reporter",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HTML",
+          "description": "Generates a nice HTML report.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-10-29T23:10:39Z",
+            "owner": "rpii",
+            "repo": "wdio-html-reporter",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Delta Reporter",
+          "description": "Report results in Delta Reporter format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-04T07:35:53Z",
+            "owner": "delta-reporter",
+            "repo": "delta-reporter-wdio",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Reporters"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "wdio-wait-for",
+          "description": "A lightweight library of useful expected conditions for the WebdriverIO framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-25T16:42:25Z",
+            "owner": "webdriverio",
+            "repo": "wdio-wait-for",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@wdio/schematics",
+          "description": "A schematic to add WebdriverIO to an Angular project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-05-20T11:47:04Z",
+            "owner": "webdriverio",
+            "repo": "webdriverio-schematics",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@rbnx/webdriverio",
+          "description": "Nx plugin that adds WebdriverIO support to a Nx workspace.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-01-16T20:50:55Z",
+            "owner": "Roozenboom",
+            "repo": "rbnx",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@badisi/wdio-harness",
+          "description": "WebdriverIO support for Angular component test harnesses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-29T08:04:39Z",
+            "owner": "Badisi",
+            "repo": "wdio-harness",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@rahularanger/WTicks",
+          "description": "A tool for exporting Selenium files into a WebdriverIO script.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-06-17T20:19:22Z",
+            "owner": "RahulARanger",
+            "repo": "WTicks",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Research & Training"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T10:30:23.112Z",
+    "original_repository": "webdriverio/awesome-webdriverio",
+    "original_repository_sha": "28788f27a060a5dd88c85120b2809ffd967e99e2",
+    "enhanced_repository": "enhansome/enhansome-webdriverio",
+    "enhanced_repository_description": null,
+    "title": "Awesome WebdriverIO with stars"
+  }
+}
