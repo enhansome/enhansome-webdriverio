@@ -3,7 +3,7 @@
 	<br>
 </h3>
 
-**[WebdriverIO](https://github.com/webdriverio/webdriverio) ⭐ 9,817 | 🐛 352 | 🌐 TypeScript | 📅 2026-08-17** Next-gen browser and mobile automation test framework for Node.js
+**[WebdriverIO](https://github.com/webdriverio/webdriverio) ⭐ 9,816 | 🐛 290 | 🌐 TypeScript | 📅 2026-08-18** Next-gen browser and mobile automation test framework for Node.js
 
 # Awesome WebdriverIO with stars
 
@@ -74,7 +74,7 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 ### Services
 
 * [Image Comparison (Visual Regression Testing)](https://github.com/wswebcreation/wdio-image-comparison-service) ⭐ 155 | 🐛 20 | 🌐 TypeScript | 📅 2026-07-27 - Image comparison and visual regression testing.
-* [Wdi5](https://github.com/js-soft/wdi5) ⭐ 120 | 🐛 38 | 🌐 TypeScript | 📅 2026-08-01 - Cross-platform test framework for hybrid UI5 apps. wdi5 = Webdriver.IO + UI5 Test API + appium.
+* [Wdi5](https://github.com/js-soft/wdi5) ⭐ 120 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-01 - Cross-platform test framework for hybrid UI5 apps. wdi5 = Webdriver.IO + UI5 Test API + appium.
 * [Intercept](https://github.com/webdriverio-community/wdio-intercept-service) ⭐ 108 | 🐛 38 | 🌐 JavaScript | 📅 2025-03-10 - Capture and assert HTTP ajax calls.
 * [Docker](https://github.com/stsvilik/wdio-docker-service) ⭐ 38 | 🐛 9 | 🌐 TypeScript | 📅 2025-11-24 - Helps run functional/integration tests against/using containerized applications.
 * [ChromeDriver](https://github.com/webdriverio-community/wdio-chromedriver-service) ⚠️ Archived - Run Chrome browser seamlessly when running tests.
@@ -166,4 +166,4 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
