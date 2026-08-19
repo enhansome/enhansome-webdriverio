@@ -629,8 +629,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:51:43.021Z",
+    "last_updated": "2026-08-19T13:00:10.602Z",
     "original_repository": "webdriverio/awesome-webdriverio",
+    "original_repository_id": 365241394,
     "original_repository_sha": "28788f27a060a5dd88c85120b2809ffd967e99e2",
     "enhanced_repository": "enhansome/enhansome-webdriverio",
     "enhanced_repository_description": null,
