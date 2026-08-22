@@ -104,7 +104,7 @@
                 "archived": false,
                 "id": 320544612,
                 "language": "TypeScript",
-                "last_commit": "2026-03-24T09:04:54Z",
+                "last_commit": "2026-08-22T07:30:33Z",
                 "owner": "tzurp",
                 "repo": "performance-total",
                 "stars": 15
@@ -629,7 +629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T09:54:05.736Z",
+    "last_updated": "2026-08-22T09:45:24.515Z",
     "original_repository": "webdriverio/awesome-webdriverio",
     "original_repository_id": 365241394,
     "original_repository_sha": "28788f27a060a5dd88c85120b2809ffd967e99e2",
