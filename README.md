@@ -3,7 +3,7 @@
 	<br>
 </h3>
 
-**[WebdriverIO](https://github.com/webdriverio/webdriverio) ⭐ 9,823 | 🐛 293 | 🌐 TypeScript | 📅 2026-08-24** Next-gen browser and mobile automation test framework for Node.js
+**[WebdriverIO](https://github.com/webdriverio/webdriverio) ⭐ 9,823 | 🐛 296 | 🌐 TypeScript | 📅 2026-08-24** Next-gen browser and mobile automation test framework for Node.js
 
 # Awesome WebdriverIO with stars
 
