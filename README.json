@@ -629,9 +629,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:00:14.873Z",
-    "original_repository": "webdriverio/awesome-webdriverio",
-    "original_repository_id": 365241394,
+    "last_updated": "2026-08-27T12:14:31.723Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 365241394,
+      "language": null,
+      "last_commit": "2026-06-03T19:43:10Z",
+      "owner": "webdriverio",
+      "repo": "awesome-webdriverio",
+      "stars": 52
+    },
     "original_repository_sha": "28788f27a060a5dd88c85120b2809ffd967e99e2",
     "enhanced_repository": "enhansome/enhansome-webdriverio",
     "enhanced_repository_description": null,
