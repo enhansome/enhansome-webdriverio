@@ -18,7 +18,8 @@
                 "owner": "webdriverio",
                 "repo": "visual-testing",
                 "stars": 154
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "ui5-community",
                 "repo": "wdi5",
                 "stars": 120
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "webdriverio-community",
                 "repo": "wdio-intercept-service",
                 "stars": 108
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "webdriverio-community",
                 "repo": "wdio-docker-service",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "webdriverio-community",
                 "repo": "wdio-chromedriver-service",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "awslabs",
                 "repo": "wdio-aws-device-farm-service",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "tzurp",
                 "repo": "performance-total",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "webdriverio-community",
                 "repo": "wdio-rerun-service",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "webdriverio-community",
                 "repo": "wdio-gmail-service",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "erwinheitzman",
                 "repo": "wdio-wiremock-service",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "LambdaTest",
                 "repo": "wdio-lambdatest-service",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "wswebcreation",
                 "repo": "wdio-ocr-service",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -198,7 +210,8 @@
                 "owner": "Jnegrier",
                 "repo": "wdio-novus-visual-regression-service",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -213,7 +226,8 @@
                 "owner": "Cubenest",
                 "repo": "rrweb-stack",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -228,7 +242,8 @@
                 "owner": "webdriverio-community",
                 "repo": "wdio-geckodriver-service",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -243,7 +258,8 @@
                 "owner": "BorisOsipov",
                 "repo": "wdio-reportportal-service",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -258,7 +274,8 @@
                 "owner": "carmenmitru",
                 "repo": "wdio-slack-service",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -273,7 +290,8 @@
                 "owner": "ng-apimock",
                 "repo": "webdriverio-plugin",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -288,7 +306,8 @@
                 "owner": "webdriverio-community",
                 "repo": "wdio-safaridriver-service",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -303,7 +322,8 @@
                 "owner": "licanhua",
                 "repo": "wdio-winappdriver-service",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -318,7 +338,8 @@
                 "owner": "webdriverio-community",
                 "repo": "wdio-edgedriver-service",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -333,7 +354,8 @@
                 "owner": "shashidharus",
                 "repo": "wdio-zafira-listener-service",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -348,7 +370,8 @@
                 "owner": "tzurp",
                 "repo": "cleanup-total",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -363,7 +386,8 @@
                 "owner": "jamesmortensen",
                 "repo": "wdio-eslinter-service",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -378,7 +402,8 @@
                 "owner": "licanhua",
                 "repo": "wdio-ywinappdriver-service",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             }
           ],
           "description": null,
@@ -400,7 +425,8 @@
                 "owner": "QualityOps",
                 "repo": "wdio-timeline-reporter",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -415,7 +441,8 @@
                 "owner": "BorisOsipov",
                 "repo": "wdio-reportportal-reporter",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -430,7 +457,8 @@
                 "owner": "webdriverio-community",
                 "repo": "wdio-cucumberjs-json-reporter",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -445,7 +473,8 @@
                 "owner": "webdriverio-community",
                 "repo": "wdio-mochawesome-reporter",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -460,7 +489,8 @@
                 "owner": "jemishgopani",
                 "repo": "wdio-json-reporter",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -475,7 +505,8 @@
                 "owner": "webdriverio-community",
                 "repo": "wdio-teamcity-reporter",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -490,7 +521,8 @@
                 "owner": "carmenmitru",
                 "repo": "wdio-markdown-reporter",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -505,7 +537,8 @@
                 "owner": "presidenten",
                 "repo": "wdio-video-reporter",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -520,7 +553,8 @@
                 "owner": "rpii",
                 "repo": "wdio-html-reporter",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -535,7 +569,8 @@
                 "owner": "delta-reporter",
                 "repo": "delta-reporter-wdio",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             }
           ],
           "description": null,
@@ -557,7 +592,8 @@
                 "owner": "webdriverio",
                 "repo": "wdio-wait-for",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -572,7 +608,8 @@
                 "owner": "webdriverio",
                 "repo": "webdriverio-schematics",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -587,7 +624,8 @@
                 "owner": "Roozenboom",
                 "repo": "rbnx",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -602,7 +640,8 @@
                 "owner": "Badisi",
                 "repo": "wdio-harness",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             },
             {
               "node_type": "item",
@@ -617,7 +656,8 @@
                 "owner": "RahulARanger",
                 "repo": "WTicks",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
             }
           ],
           "description": null,
@@ -629,7 +669,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:52:19.390Z",
+    "last_updated": "2026-08-28T20:56:11.867Z",
     "original_repository_info": {
       "archived": false,
       "id": 365241394,
