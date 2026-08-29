@@ -12,12 +12,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Image comparison / visual regression testing for WebdriverIO",
+                "homepage": "https://webdriver.io/docs/visual-testing",
                 "id": 181739821,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-27T15:37:04Z",
+                "open_issues": 20,
                 "owner": "webdriverio",
                 "repo": "visual-testing",
-                "stars": 154
+                "stars": 154,
+                "topics": [
+                  "testing",
+                  "visual",
+                  "wdio",
+                  "webdriver",
+                  "webdriverio"
+                ]
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -28,12 +39,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "official UI5 end-to-end test framework for UI5 web-apps. wdi5 = Webdriver.IO + UI5 Test API",
+                "homepage": "https://ui5-community.github.io/wdi5/",
                 "id": 250083866,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-01T01:14:18Z",
+                "open_issues": 38,
                 "owner": "ui5-community",
                 "repo": "wdi5",
-                "stars": 120
+                "stars": 120,
+                "topics": [
+                  "openui5",
+                  "sapui5",
+                  "testing",
+                  "ui5",
+                  "webdriverio"
+                ]
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -44,12 +66,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🕸 Capture and assert HTTP ajax calls in webdriver.io",
+                "homepage": null,
                 "id": 45058189,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-03-10T01:01:20Z",
+                "open_issues": 38,
                 "owner": "webdriverio-community",
                 "repo": "wdio-intercept-service",
-                "stars": 108
+                "stars": 108,
+                "topics": [
+                  "assess-requests",
+                  "capturerequest",
+                  "selenium",
+                  "wdio",
+                  "webdriver"
+                ]
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -60,12 +93,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Docker service for Webdriver.io",
+                "homepage": null,
                 "id": 116775856,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-11-24T20:22:42Z",
+                "open_issues": 9,
                 "owner": "webdriverio-community",
                 "repo": "wdio-docker-service",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -76,12 +114,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "WebdriverIO service to start & stop ChromeDriver",
+                "homepage": null,
                 "id": 90821323,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-08-03T23:56:12Z",
+                "open_issues": 4,
                 "owner": "webdriverio-community",
                 "repo": "wdio-chromedriver-service",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -92,12 +135,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AWS Device Farm service for WebdriverIO",
+                "homepage": "https://aws.amazon.com/device-farm/",
                 "id": 329027561,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-18T17:06:22Z",
+                "open_issues": 2,
                 "owner": "awslabs",
                 "repo": "wdio-aws-device-farm-service",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "aws",
+                  "aws-devicefarm",
+                  "typescript",
+                  "wdio",
+                  "webdriverio-service"
+                ]
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -108,12 +162,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This WebdriverIO service is used to analyze performance of any test flow.",
+                "homepage": null,
                 "id": 320544612,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-22T07:30:33Z",
+                "open_issues": 0,
                 "owner": "tzurp",
                 "repo": "performance-total",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -124,12 +183,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WebdriverIO plugin for automatic re-runs of failed/flaky tests. Supports Cucumber scenarios, Mocha, and Jasmine.",
+                "homepage": "https://www.npmjs.com/package/wdio-rerun-service",
                 "id": 286504868,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-02-13T20:50:45Z",
+                "open_issues": 5,
                 "owner": "webdriverio-community",
                 "repo": "wdio-rerun-service",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "automation",
+                  "ci-cd",
+                  "cucumber-framework",
+                  "e2e-testing",
+                  "flaky-tests",
+                  "gherkin",
+                  "integration-testing",
+                  "jasmine-tests",
+                  "javascript-es6",
+                  "mochajs",
+                  "nodejs",
+                  "selenium",
+                  "test-automation-framework",
+                  "test-retry",
+                  "testing-tool",
+                  "typescript",
+                  "wdio",
+                  "wdio-plugin",
+                  "webdriverio-framework"
+                ]
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -140,12 +224,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A WebdriverIO plugin to fetch e-mails from Google Mail.",
+                "homepage": "https://webdriver.io/docs/wdio-gmail-service",
                 "id": 367357716,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-02-09T21:49:49Z",
+                "open_issues": 3,
                 "owner": "webdriverio-community",
                 "repo": "wdio-gmail-service",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "gmail",
+                  "wdio",
+                  "wdio-plugin",
+                  "wdio-service",
+                  "webdriverio"
+                ]
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -156,12 +251,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A WebdriverIO service to start & stop WireMock Standalone",
+                "homepage": null,
                 "id": 225658897,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-02-21T02:38:44Z",
+                "open_issues": 1,
                 "owner": "erwinheitzman",
                 "repo": "wdio-wiremock-service",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -172,12 +272,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official WebdriverIO service for TestMu AI (Formerly LambdaTest).",
+                "homepage": "https://webdriver.io/docs/wdio-lambdatest-service/",
                 "id": 243283215,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-16T20:38:05Z",
+                "open_issues": 10,
                 "owner": "LambdaTest",
                 "repo": "wdio-lambdatest-service",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -188,12 +295,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Using Tesseract OCR with WebdriverIO and Appium Native App tests",
+                "homepage": null,
                 "id": 352260559,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2021-12-20T16:39:02Z",
+                "open_issues": 3,
                 "owner": "wswebcreation",
                 "repo": "wdio-ocr-service",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -204,12 +316,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fork of wdio-visual-regression-service by Zinserjan, with compability with WebdriverIO V6",
+                "homepage": null,
                 "id": 212899083,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-02-03T09:33:34Z",
+                "open_issues": 17,
                 "owner": "Jnegrier",
                 "repo": "wdio-novus-visual-regression-service",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -220,12 +337,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Two OSS products on one rrweb substrate: tracelane (self-contained HTML test-failure replays for WDIO/Playwright/Cypress) + peek (local-first browser-session forensics + repro for AI coding agents, over MCP). No SaaS, no telemetry, local-first.",
+                "homepage": "https://cubenest.in",
                 "id": 1250282383,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-10T16:00:26Z",
+                "open_issues": 4,
                 "owner": "Cubenest",
                 "repo": "rrweb-stack",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "ai-coding-agent",
+                  "apache-2",
+                  "chrome-extension",
+                  "claude-code",
+                  "cursor",
+                  "cypress",
+                  "mcp",
+                  "model-context-protocol",
+                  "monorepo",
+                  "playwright",
+                  "rrweb",
+                  "session-replay",
+                  "testing",
+                  "webdriverio"
+                ]
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -236,12 +373,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "WebdriverIO service to start & stop GeckoDriver",
+                "homepage": null,
                 "id": 200414433,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-08-03T23:53:16Z",
+                "open_issues": 0,
                 "owner": "webdriverio-community",
                 "repo": "wdio-geckodriver-service",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -252,12 +394,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Service for https://github.com/BorisOsipov/wdio-reportportal-reporter",
+                "homepage": null,
                 "id": 165495245,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-03-04T03:51:17Z",
+                "open_issues": 3,
                 "owner": "BorisOsipov",
                 "repo": "wdio-reportportal-service",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -268,12 +417,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A WebdriverIO service which sends notifications of test results to Slack.",
+                "homepage": null,
                 "id": 229266625,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-01-27T05:11:36Z",
+                "open_issues": 21,
                 "owner": "carmenmitru",
                 "repo": "wdio-slack-service",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -284,12 +438,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "webdriverio client for @ng-apimock/core",
+                "homepage": null,
                 "id": 141175039,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-03-06T19:10:38Z",
+                "open_issues": 28,
                 "owner": "ng-apimock",
                 "repo": "webdriverio-plugin",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -300,12 +459,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "WebdriverIO service to start & stop SafariDriver",
+                "homepage": "https://webdriver.io",
                 "id": 248169332,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-08-03T23:51:51Z",
+                "open_issues": 0,
                 "owner": "webdriverio-community",
                 "repo": "wdio-safaridriver-service",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "safari",
+                  "wdio-plugin",
+                  "wdio-service",
+                  "webdriverio"
+                ]
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -316,12 +485,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A WebdriverIO service to start & stop WinAppDriver",
+                "homepage": null,
                 "id": 316594421,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2021-08-09T15:59:45Z",
+                "open_issues": 2,
                 "owner": "licanhua",
                 "repo": "wdio-winappdriver-service",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "wdio",
+                  "webdriverio",
+                  "winappdriver"
+                ]
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -332,12 +510,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "WebdriverIO service to start & stop EdgeDriver",
+                "homepage": "https://webdriver.io",
                 "id": 200460788,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-08-03T23:54:33Z",
+                "open_issues": 0,
                 "owner": "webdriverio-community",
                 "repo": "wdio-edgedriver-service",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "edge",
+                  "edgedriver",
+                  "wdio",
+                  "wdio-plugin",
+                  "wdio-service"
+                ]
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -348,12 +537,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zafira listener for webdriverio tests",
+                "homepage": null,
                 "id": 170069590,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-08-27T17:37:53Z",
+                "open_issues": 1,
                 "owner": "shashidharus",
                 "repo": "wdio-zafira-listener-service",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -364,12 +558,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "With this WebdriverIO service you can easily ensure proper cleanup after each test",
+                "homepage": null,
                 "id": 385212604,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-05T08:47:45Z",
+                "open_issues": 0,
                 "owner": "tzurp",
                 "repo": "cleanup-total",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -380,12 +579,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WebdriverIO service which automatically runs eslint checks prior to executing tests.",
+                "homepage": null,
                 "id": 367631450,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-03-16T09:32:56Z",
+                "open_issues": 1,
                 "owner": "jamesmortensen",
                 "repo": "wdio-eslinter-service",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -396,12 +600,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A WebdriverIO service to start & stop YWinAppDriver",
+                "homepage": null,
                 "id": 316798830,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2020-11-30T05:07:46Z",
+                "open_issues": 0,
                 "owner": "licanhua",
                 "repo": "wdio-ywinappdriver-service",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             }
@@ -419,12 +628,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 149503711,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2022-12-30T17:41:44Z",
+                "open_issues": 37,
                 "owner": "QualityOps",
                 "repo": "wdio-timeline-reporter",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -435,12 +649,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A WebdriverIO plugin. Report results to Report Portal.",
+                "homepage": null,
                 "id": 148535920,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-11-02T17:18:21Z",
+                "open_issues": 23,
                 "owner": "BorisOsipov",
                 "repo": "wdio-reportportal-reporter",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "hacktoberfest",
+                  "reportportal",
+                  "webdriverio"
+                ]
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -451,12 +674,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A WDIO reporter that creates CucumberJS JSON files for WebdriverIO",
+                "homepage": "https://webdriver.io/docs/wdio-cucumberjs-json-reporter",
                 "id": 198373426,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-11-18T16:43:15Z",
+                "open_issues": 27,
                 "owner": "webdriverio-community",
                 "repo": "wdio-cucumberjs-json-reporter",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "cucumber",
+                  "cucumberjs",
+                  "wdio",
+                  "wdio-plugin",
+                  "wdio-reporter",
+                  "webdriverio"
+                ]
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -467,12 +702,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A WebdriverIO plugin. Report in the Mochawesome format",
+                "homepage": null,
                 "id": 111618978,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-01-21T23:55:24Z",
+                "open_issues": 3,
                 "owner": "webdriverio-community",
                 "repo": "wdio-mochawesome-reporter",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -483,12 +723,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A WebdriverIO plugin. Report results in json format. http://webdriver.io",
+                "homepage": null,
                 "id": 58210738,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-08-30T13:19:43Z",
+                "open_issues": 4,
                 "owner": "jemishgopani",
                 "repo": "wdio-json-reporter",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -499,12 +744,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Teamcity reporter for WebdriverIO",
+                "homepage": null,
                 "id": 55708503,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-10-27T09:15:04Z",
+                "open_issues": 5,
                 "owner": "webdriverio-community",
                 "repo": "wdio-teamcity-reporter",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -515,12 +765,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WebdriverIO plugin for Markdown report",
+                "homepage": null,
                 "id": 230232260,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-12-26T15:12:27Z",
+                "open_issues": 1,
                 "owner": "carmenmitru",
                 "repo": "wdio-markdown-reporter",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -531,12 +786,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reporter for WebdriverIO v6 that makes videos of failed tests and has optional allure integration",
+                "homepage": "https://webdriver.io/docs/wdio-video-reporter",
                 "id": 371281604,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-10-18T10:17:46Z",
+                "open_issues": 2,
                 "owner": "presidenten",
                 "repo": "wdio-video-reporter",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -547,12 +807,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fork for cleanup of wdio-html-format-reporter",
+                "homepage": null,
                 "id": 685295844,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-10-29T23:10:39Z",
+                "open_issues": 1,
                 "owner": "rpii",
                 "repo": "wdio-html-reporter",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -563,12 +828,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Delta Reporter plugin for WebdriverIO",
+                "homepage": null,
                 "id": 249407158,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-04T07:35:53Z",
+                "open_issues": 11,
                 "owner": "delta-reporter",
                 "repo": "delta-reporter-wdio",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "delta-reporter",
+                  "webdriverio"
+                ]
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             }
@@ -586,12 +859,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a lightweight library of useful expected conditions for the WebdriverIO framework.",
+                "homepage": null,
                 "id": 359545441,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-25T16:42:25Z",
+                "open_issues": 11,
                 "owner": "webdriverio",
                 "repo": "wdio-wait-for",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "selenium",
+                  "typesript",
+                  "webdriver",
+                  "webdriverio",
+                  "webdriverio-plugin"
+                ]
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -602,12 +886,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Add WebdriverIO to an Angular CLI project",
+                "homepage": "https://webdriver.io",
                 "id": 347904952,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-05-20T11:47:04Z",
+                "open_issues": 19,
                 "owner": "webdriverio",
                 "repo": "webdriverio-schematics",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "angular",
+                  "cli",
+                  "hacktoberfest",
+                  "ng",
+                  "schematics",
+                  "tooling",
+                  "webdriverio"
+                ]
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -618,12 +915,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nx plugin for WebdriverIO support",
+                "homepage": "https://www.npmjs.com/package/@rbnx/webdriverio",
                 "id": 610954550,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-01-16T20:50:55Z",
+                "open_issues": 3,
                 "owner": "Roozenboom",
                 "repo": "rbnx",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "nx",
+                  "nx-plugin",
+                  "wdio",
+                  "webdriverio"
+                ]
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -634,12 +941,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔬 WebdriverIO support for Angular component test harnesses",
+                "homepage": null,
                 "id": 428432470,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-29T08:04:39Z",
+                "open_issues": 0,
                 "owner": "Badisi",
                 "repo": "wdio-harness",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "angular",
+                  "cdk",
+                  "components",
+                  "harness",
+                  "harnesses",
+                  "test",
+                  "test-harnesses",
+                  "testing",
+                  "wdio",
+                  "webdriver",
+                  "webdriverio"
+                ]
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -650,12 +974,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool for converting recorded selenium script to standalone webdriverio script",
+                "homepage": "https://wticks.vercel.app/converter",
                 "id": 644054034,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-06-17T20:19:22Z",
+                "open_issues": 0,
                 "owner": "RahulARanger",
                 "repo": "WTicks",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "code-export",
+                  "selenium-ide",
+                  "webdriverio"
+                ]
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             }
@@ -669,15 +1002,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:56:11.867Z",
+    "last_updated": "2026-08-29T05:06:08.007Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome WebdriverIO resources, libraries and tools",
+      "homepage": "https://webdriver.io/community/resources",
       "id": 365241394,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-06-03T19:43:10Z",
+      "open_issues": 3,
       "owner": "webdriverio",
       "repo": "awesome-webdriverio",
-      "stars": 52
+      "stars": 52,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "testing"
+      ]
     },
     "original_repository_sha": "28788f27a060a5dd88c85120b2809ffd967e99e2",
     "enhanced_repository": "enhansome/enhansome-webdriverio",
