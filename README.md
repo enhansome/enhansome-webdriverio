@@ -3,7 +3,7 @@
 	<br>
 </h3>
 
-**[WebdriverIO](https://github.com/webdriverio/webdriverio) ⭐ 9,836 | 🐛 294 | 🌐 TypeScript | 📅 2026-09-13** Next-gen browser and mobile automation test framework for Node.js
+**[WebdriverIO](https://github.com/webdriverio/webdriverio) ⭐ 9,835 | 🐛 288 | 🌐 TypeScript | 📅 2026-09-14** Next-gen browser and mobile automation test framework for Node.js
 
 # Awesome WebdriverIO with stars
 
@@ -74,7 +74,7 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 ### Services
 
 * [Image Comparison (Visual Regression Testing)](https://github.com/wswebcreation/wdio-image-comparison-service) ⭐ 153 | 🐛 20 | 🌐 TypeScript | 📅 2026-07-27 - Image comparison and visual regression testing.
-* [Wdi5](https://github.com/js-soft/wdi5) ⭐ 120 | 🐛 37 | 🌐 TypeScript | 📅 2026-09-11 - Cross-platform test framework for hybrid UI5 apps. wdi5 = Webdriver.IO + UI5 Test API + appium.
+* [Wdi5](https://github.com/js-soft/wdi5) ⭐ 120 | 🐛 36 | 🌐 TypeScript | 📅 2026-09-11 - Cross-platform test framework for hybrid UI5 apps. wdi5 = Webdriver.IO + UI5 Test API + appium.
 * [Intercept](https://github.com/webdriverio-community/wdio-intercept-service) ⭐ 108 | 🐛 38 | 🌐 JavaScript | 📅 2025-03-10 - Capture and assert HTTP ajax calls.
 * [Docker](https://github.com/stsvilik/wdio-docker-service) ⭐ 38 | 🐛 9 | 🌐 TypeScript | 📅 2025-11-24 - Helps run functional/integration tests against/using containerized applications.
 * [ChromeDriver](https://github.com/webdriverio-community/wdio-chromedriver-service) ⚠️ Archived - Run Chrome browser seamlessly when running tests.
@@ -83,7 +83,7 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 * [Re-run](https://github.com/jwplayer/wdio-rerun-service) ⭐ 11 | 🐛 5 | 🌐 TypeScript | 📅 2026-02-13 - Tracks failing tests and scenarios, allowing failing or unstable tests or scenarios to be re-run.
 * [Gmail](https://github.com/webdriverio-community/wdio-gmail-service) ⭐ 10 | 🐛 3 | 🌐 TypeScript | 📅 2026-02-09 - Fetch e-mails from Google Mail.
 * [WireMock](https://github.com/erwinheitzman/wdio-wiremock-service) ⭐ 10 | 🐛 1 | 🌐 TypeScript | 📅 2024-02-21 - Run WireMock seamlessly when running tests.
-* [LambdaTest](https://github.com/LambdaTest/wdio-lambdatest-service) ⭐ 9 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-10 - Manage tunnel and job metadata for LambdaTest users.
+* [LambdaTest](https://github.com/LambdaTest/wdio-lambdatest-service) ⭐ 9 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-14 - Manage tunnel and job metadata for LambdaTest users.
 * [OCR service for Appium Native Apps](https://github.com/wswebcreation/wdio-ocr-service) ⭐ 9 | 🐛 3 | 🌐 TypeScript | 📅 2021-12-20 - Run Tesseract OCR for Appium Native App tests.
 * [Novus Visual Regression](https://github.com/Jnegrier/wdio-novus-visual-regression-service) ⭐ 7 | 🐛 17 | 🌐 JavaScript | 📅 2023-02-03 - Visual regression testing.
 * [tracelane](https://github.com/Cubenest/rrweb-stack) ⭐ 7 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-10 - Records failed end-to-end tests as self-contained, offline-replayable HTML reports with session replay, console and failed-network panels. No backend.
@@ -166,4 +166,4 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
