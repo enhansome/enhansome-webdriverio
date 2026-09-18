@@ -946,7 +946,7 @@
                 "id": 428432470,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-07-29T08:04:39Z",
+                "last_commit": "2026-09-18T08:29:42Z",
                 "open_issues": 0,
                 "owner": "Badisi",
                 "repo": "wdio-harness",
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T14:19:30.615Z",
+    "last_updated": "2026-09-18T13:38:20.680Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebdriverIO resources, libraries and tools",

@@ -3,7 +3,7 @@
 	<br>
 </h3>
 
-**[WebdriverIO](https://github.com/webdriverio/webdriverio) ⭐ 9,835 | 🐛 243 | 🌐 TypeScript | 📅 2026-09-17** Next-gen browser and mobile automation test framework for Node.js
+**[WebdriverIO](https://github.com/webdriverio/webdriverio) ⭐ 9,835 | 🐛 245 | 🌐 TypeScript | 📅 2026-09-17** Next-gen browser and mobile automation test framework for Node.js
 
 # Awesome WebdriverIO with stars
 
@@ -120,7 +120,7 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 * [wdio-wait-for](https://github.com/webdriverio-community/wdio-wait-for) ⭐ 20 | 🐛 11 | 🌐 TypeScript | 📅 2026-05-25 - A lightweight library of useful expected conditions for the WebdriverIO framework.
 * [@wdio/schematics](https://github.com/webdriverio/webdriverio-schematics) ⭐ 19 | 🐛 19 | 🌐 TypeScript | 📅 2024-05-20 - A schematic to add WebdriverIO to an Angular project.
 * [@rbnx/webdriverio](https://github.com/Roozenboom/rbnx/tree/main/packages/webdriverio) ⭐ 10 | 🐛 3 | 🌐 TypeScript | 📅 2024-01-16 - Nx plugin that adds WebdriverIO support to a Nx workspace.
-* [@badisi/wdio-harness](https://github.com/Badisi/wdio-harness) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-29 - WebdriverIO support for Angular component test harnesses.
+* [@badisi/wdio-harness](https://github.com/Badisi/wdio-harness) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-18 - WebdriverIO support for Angular component test harnesses.
 * [@rahularanger/WTicks](https://github.com/RahulARanger/WTicks) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2023-06-17 - A tool for exporting Selenium `.side` files into a WebdriverIO script.
 
 ## Research & Training
@@ -166,4 +166,4 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
