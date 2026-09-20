@@ -3,7 +3,7 @@
 	<br>
 </h3>
 
-**[WebdriverIO](https://github.com/webdriverio/webdriverio) ⭐ 9,835 | 🐛 253 | 🌐 TypeScript | 📅 2026-09-19** Next-gen browser and mobile automation test framework for Node.js
+**[WebdriverIO](https://github.com/webdriverio/webdriverio) ⭐ 9,838 | 🐛 244 | 🌐 TypeScript | 📅 2026-09-19** Next-gen browser and mobile automation test framework for Node.js
 
 # Awesome WebdriverIO with stars
 
@@ -85,7 +85,7 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 * [WireMock](https://github.com/erwinheitzman/wdio-wiremock-service) ⭐ 10 | 🐛 1 | 🌐 TypeScript | 📅 2024-02-21 - Run WireMock seamlessly when running tests.
 * [LambdaTest](https://github.com/LambdaTest/wdio-lambdatest-service) ⭐ 9 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-14 - Manage tunnel and job metadata for LambdaTest users.
 * [OCR service for Appium Native Apps](https://github.com/wswebcreation/wdio-ocr-service) ⭐ 9 | 🐛 3 | 🌐 TypeScript | 📅 2021-12-20 - Run Tesseract OCR for Appium Native App tests.
-* [Novus Visual Regression](https://github.com/Jnegrier/wdio-novus-visual-regression-service) ⭐ 7 | 🐛 18 | 🌐 JavaScript | 📅 2023-02-03 - Visual regression testing.
+* [Novus Visual Regression](https://github.com/Jnegrier/wdio-novus-visual-regression-service) ⭐ 7 | 🐛 17 | 🌐 JavaScript | 📅 2026-09-20 - Visual regression testing.
 * [tracelane](https://github.com/Cubenest/rrweb-stack) ⭐ 7 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-10 - Records failed end-to-end tests as self-contained, offline-replayable HTML reports with session replay, console and failed-network panels. No backend.
 * [GeckoDriver](https://github.com/webdriverio-community/wdio-geckodriver-service) ⚠️ Archived - Run Gecko browser seamlessly when running tests.
 * [Report Portal](https://github.com/borisosipov/wdio-reportportal-service) ⭐ 5 | 🐛 3 | 🌐 JavaScript | 📅 2023-03-04 - Service used by Report Portal Reporter.
@@ -166,4 +166,4 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._

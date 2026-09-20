@@ -321,8 +321,8 @@
                 "id": 212899083,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2023-02-03T09:33:34Z",
-                "open_issues": 18,
+                "last_commit": "2026-09-20T05:12:07Z",
+                "open_issues": 17,
                 "owner": "Jnegrier",
                 "repo": "wdio-novus-visual-regression-service",
                 "stars": 7,
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T13:12:16.389Z",
+    "last_updated": "2026-09-20T13:36:15.970Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebdriverIO resources, libraries and tools",
