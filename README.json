@@ -140,8 +140,8 @@
                 "id": 329027561,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T14:19:12Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-29T07:25:35Z",
+                "open_issues": 6,
                 "owner": "awslabs",
                 "repo": "wdio-aws-device-farm-service",
                 "stars": 25,
@@ -683,7 +683,7 @@
                 "open_issues": 27,
                 "owner": "webdriverio-community",
                 "repo": "wdio-cucumberjs-json-reporter",
-                "stars": 23,
+                "stars": 22,
                 "topics": [
                   "cucumber",
                   "cucumberjs",
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T17:41:21.305Z",
+    "last_updated": "2026-09-29T15:56:35.088Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebdriverIO resources, libraries and tools",

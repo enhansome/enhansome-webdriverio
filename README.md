@@ -3,7 +3,7 @@
 	<br>
 </h3>
 
-**[WebdriverIO](https://github.com/webdriverio/webdriverio) ⭐ 9,843 | 🐛 220 | 🌐 TypeScript | 📅 2026-09-28** Next-gen browser and mobile automation test framework for Node.js
+**[WebdriverIO](https://github.com/webdriverio/webdriverio) ⭐ 9,843 | 🐛 249 | 🌐 TypeScript | 📅 2026-09-29** Next-gen browser and mobile automation test framework for Node.js
 
 # Awesome WebdriverIO with stars
 
@@ -78,7 +78,7 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 * [Intercept](https://github.com/webdriverio-community/wdio-intercept-service) ⭐ 108 | 🐛 38 | 🌐 JavaScript | 📅 2025-03-10 - Capture and assert HTTP ajax calls.
 * [Docker](https://github.com/stsvilik/wdio-docker-service) ⭐ 38 | 🐛 9 | 🌐 TypeScript | 📅 2025-11-24 - Helps run functional/integration tests against/using containerized applications.
 * [ChromeDriver](https://github.com/webdriverio-community/wdio-chromedriver-service) ⚠️ Archived - Run Chrome browser seamlessly when running tests.
-* [AWS Device Farm](https://github.com/awslabs/wdio-aws-device-farm-service) ⭐ 25 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-10 - AWS Device Farm service.
+* [AWS Device Farm](https://github.com/awslabs/wdio-aws-device-farm-service) ⭐ 25 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-29 - AWS Device Farm service.
 * [PerformanceTotal](https://github.com/tzurp/performance-total) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-22 - Analyze performance of test automated flows.
 * [Re-run](https://github.com/jwplayer/wdio-rerun-service) ⭐ 11 | 🐛 5 | 🌐 TypeScript | 📅 2026-02-13 - Tracks failing tests and scenarios, allowing failing or unstable tests or scenarios to be re-run.
 * [Gmail](https://github.com/webdriverio-community/wdio-gmail-service) ⭐ 10 | 🐛 3 | 🌐 TypeScript | 📅 2026-02-09 - Fetch e-mails from Google Mail.
@@ -105,7 +105,7 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 
 * [Timeline](https://github.com/QualityOps/wdio-timeline-reporter) ⭐ 34 | 🐛 37 | 🌐 HTML | 📅 2022-12-30 - Report results in an aggregated visualisation interface.
 * [Report Portal](https://github.com/borisosipov/wdio-reportportal-reporter) ⭐ 24 | 🐛 23 | 🌐 TypeScript | 📅 2023-11-02 - Report results to Report Portal.
-* [CucumberJS](https://github.com/wswebcreation/wdio-cucumberjs-json-reporter) ⭐ 23 | 🐛 27 | 🌐 TypeScript | 📅 2025-11-18 - Report results in CucumberJS JSON format.
+* [CucumberJS](https://github.com/wswebcreation/wdio-cucumberjs-json-reporter) ⭐ 22 | 🐛 27 | 🌐 TypeScript | 📅 2025-11-18 - Report results in CucumberJS JSON format.
 * [Mochawesome](https://github.com/fijijavis/wdio-mochawesome-reporter) ⭐ 16 | 🐛 3 | 🌐 JavaScript | 📅 2026-01-21 - Report results in Mochawesome format.
 * [JSON](https://github.com/fijijavis/wdio-json-reporter) ⭐ 13 | 🐛 4 | 🌐 JavaScript | 📅 2024-08-30 - Report results in JSON format.
 * [Teamcity](https://github.com/webdriverio-community/wdio-teamcity-reporter) ⭐ 6 | 🐛 5 | 🌐 JavaScript | 📅 2025-10-27 - Report results to the build results page of Teamcity Portal.
@@ -166,4 +166,4 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
