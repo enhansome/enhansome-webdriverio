@@ -3,7 +3,7 @@
 	<br>
 </h3>
 
-**[WebdriverIO](https://github.com/webdriverio/webdriverio) ⭐ 9,843 | 🐛 226 | 🌐 TypeScript | 📅 2026-09-30** Next-gen browser and mobile automation test framework for Node.js
+**[WebdriverIO](https://github.com/webdriverio/webdriverio) ⭐ 9,842 | 🐛 223 | 🌐 TypeScript | 📅 2026-10-01** Next-gen browser and mobile automation test framework for Node.js
 
 # Awesome WebdriverIO with stars
 
@@ -73,12 +73,12 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 
 ### Services
 
-* [Image Comparison (Visual Regression Testing)](https://github.com/wswebcreation/wdio-image-comparison-service) ⭐ 153 | 🐛 20 | 🌐 TypeScript | 📅 2026-07-27 - Image comparison and visual regression testing.
-* [Wdi5](https://github.com/js-soft/wdi5) ⭐ 120 | 🐛 37 | 🌐 TypeScript | 📅 2026-09-11 - Cross-platform test framework for hybrid UI5 apps. wdi5 = Webdriver.IO + UI5 Test API + appium.
+* [Image Comparison (Visual Regression Testing)](https://github.com/wswebcreation/wdio-image-comparison-service) ⭐ 153 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-30 - Image comparison and visual regression testing.
+* [Wdi5](https://github.com/js-soft/wdi5) ⭐ 120 | 🐛 38 | 🌐 TypeScript | 📅 2026-09-11 - Cross-platform test framework for hybrid UI5 apps. wdi5 = Webdriver.IO + UI5 Test API + appium.
 * [Intercept](https://github.com/webdriverio-community/wdio-intercept-service) ⭐ 108 | 🐛 38 | 🌐 JavaScript | 📅 2025-03-10 - Capture and assert HTTP ajax calls.
 * [Docker](https://github.com/stsvilik/wdio-docker-service) ⭐ 38 | 🐛 9 | 🌐 TypeScript | 📅 2025-11-24 - Helps run functional/integration tests against/using containerized applications.
 * [ChromeDriver](https://github.com/webdriverio-community/wdio-chromedriver-service) ⚠️ Archived - Run Chrome browser seamlessly when running tests.
-* [AWS Device Farm](https://github.com/awslabs/wdio-aws-device-farm-service) ⭐ 25 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-29 - AWS Device Farm service.
+* [AWS Device Farm](https://github.com/awslabs/wdio-aws-device-farm-service) ⭐ 25 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-01 - AWS Device Farm service.
 * [PerformanceTotal](https://github.com/tzurp/performance-total) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-22 - Analyze performance of test automated flows.
 * [Re-run](https://github.com/jwplayer/wdio-rerun-service) ⭐ 11 | 🐛 5 | 🌐 TypeScript | 📅 2026-02-13 - Tracks failing tests and scenarios, allowing failing or unstable tests or scenarios to be re-run.
 * [Gmail](https://github.com/webdriverio-community/wdio-gmail-service) ⭐ 10 | 🐛 3 | 🌐 TypeScript | 📅 2026-02-09 - Fetch e-mails from Google Mail.
@@ -166,4 +166,4 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
