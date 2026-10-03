@@ -3,7 +3,7 @@
 	<br>
 </h3>
 
-**[WebdriverIO](https://github.com/webdriverio/webdriverio) ⭐ 9,844 | 🐛 229 | 🌐 TypeScript | 📅 2026-10-02** Next-gen browser and mobile automation test framework for Node.js
+**[WebdriverIO](https://github.com/webdriverio/webdriverio) ⭐ 9,844 | 🐛 208 | 🌐 TypeScript | 📅 2026-10-03** Next-gen browser and mobile automation test framework for Node.js
 
 # Awesome WebdriverIO with stars
 
@@ -11,7 +11,7 @@
 
 **A curated list of awesome WebdriverIO resources, libraries, tools and applications**
 
-Inspired by the [awesome](https://awesome.re) list. Feel free to improve this list by [contributing](https://github.com/webdriverio/awesome-webdriverio/blob/master/contributing.md) ⭐ 52 | 🐛 3 | 📅 2026-06-03!
+Inspired by the [awesome](https://awesome.re) list. Feel free to improve this list by [contributing](https://github.com/webdriverio/awesome-webdriverio/blob/master/contributing.md)!
 
 <!--lint disable list-item-indent-->
 
@@ -166,4 +166,4 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
