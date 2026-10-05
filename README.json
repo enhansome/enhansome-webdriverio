@@ -17,8 +17,8 @@
                 "id": 181739821,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-04T14:28:57Z",
-                "open_issues": 23,
+                "last_commit": "2026-10-05T18:21:18Z",
+                "open_issues": 27,
                 "owner": "webdriverio",
                 "repo": "visual-testing",
                 "stars": 155,
@@ -950,7 +950,7 @@
                 "open_issues": 0,
                 "owner": "Badisi",
                 "repo": "wdio-harness",
-                "stars": 6,
+                "stars": 7,
                 "topics": [
                   "angular",
                   "cdk",
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T14:48:40.633Z",
+    "last_updated": "2026-10-05T18:31:59.515Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebdriverIO resources, libraries and tools",
