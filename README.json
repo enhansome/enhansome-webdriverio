@@ -17,8 +17,8 @@
                 "id": 181739821,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-07T14:40:31Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-08T15:56:19Z",
+                "open_issues": 23,
                 "owner": "webdriverio",
                 "repo": "visual-testing",
                 "stars": 156,
@@ -48,7 +48,7 @@
                 "open_issues": 38,
                 "owner": "ui5-community",
                 "repo": "wdi5",
-                "stars": 120,
+                "stars": 121,
                 "topics": [
                   "openui5",
                   "sapui5",
@@ -311,27 +311,6 @@
             },
             {
               "node_type": "item",
-              "title": "Novus Visual Regression",
-              "description": "Visual regression testing.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Fork of wdio-visual-regression-service by Zinserjan, with compability with WebdriverIO V6",
-                "homepage": null,
-                "id": 212899083,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2026-09-20T05:12:07Z",
-                "open_issues": 17,
-                "owner": "Jnegrier",
-                "repo": "wdio-novus-visual-regression-service",
-                "stars": 7,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:56:11.867Z"
-            },
-            {
-              "node_type": "item",
               "title": "tracelane",
               "description": "Records failed end-to-end tests as self-contained, offline-replayable HTML reports with session replay, console and failed-network panels. No backend.",
               "children": [],
@@ -346,7 +325,7 @@
                 "open_issues": 4,
                 "owner": "Cubenest",
                 "repo": "rrweb-stack",
-                "stars": 7,
+                "stars": 8,
                 "topics": [
                   "ai-coding-agent",
                   "apache-2",
@@ -363,6 +342,27 @@
                   "testing",
                   "webdriverio"
                 ]
+              },
+              "first_seen": "2026-08-28T20:56:11.867Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Novus Visual Regression",
+              "description": "Visual regression testing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Fork of wdio-visual-regression-service by Zinserjan, with compability with WebdriverIO V6",
+                "homepage": null,
+                "id": 212899083,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-09-20T05:12:07Z",
+                "open_issues": 17,
+                "owner": "Jnegrier",
+                "repo": "wdio-novus-visual-regression-service",
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:56:11.867Z"
             },
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T16:35:05.512Z",
+    "last_updated": "2026-10-08T16:33:30.663Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebdriverIO resources, libraries and tools",
