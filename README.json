@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-18T23:32:08Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "webdriverio",
                 "repo": "visual-testing",
-                "stars": 157,
+                "stars": 158,
                 "topics": [
                   "testing",
                   "visual",
@@ -44,8 +44,8 @@
                 "id": 250083866,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T07:45:30Z",
-                "open_issues": 38,
+                "last_commit": "2026-10-21T03:33:24Z",
+                "open_issues": 29,
                 "owner": "ui5-community",
                 "repo": "wdi5",
                 "stars": 121,
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T14:20:45.786Z",
+    "last_updated": "2026-10-21T14:31:02.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebdriverIO resources, libraries and tools",
