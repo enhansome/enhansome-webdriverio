@@ -3,7 +3,7 @@
 	<br>
 </h3>
 
-**[WebdriverIO](https://github.com/webdriverio/webdriverio) ⭐ 9,856 | 🐛 218 | 🌐 TypeScript | 📅 2026-10-22** Next-gen browser and mobile automation test framework for Node.js
+**[WebdriverIO](https://github.com/webdriverio/webdriverio) ⭐ 9,855 | 🐛 224 | 🌐 TypeScript | 📅 2026-10-23** Next-gen browser and mobile automation test framework for Node.js
 
 # Awesome WebdriverIO with stars
 
@@ -73,8 +73,8 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 
 ### Services
 
-* [Image Comparison (Visual Regression Testing)](https://github.com/wswebcreation/wdio-image-comparison-service) ⭐ 158 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-18 - Image comparison and visual regression testing.
-* [Wdi5](https://github.com/js-soft/wdi5) ⭐ 121 | 🐛 29 | 🌐 TypeScript | 📅 2026-10-21 - Cross-platform test framework for hybrid UI5 apps. wdi5 = Webdriver.IO + UI5 Test API + appium.
+* [Image Comparison (Visual Regression Testing)](https://github.com/wswebcreation/wdio-image-comparison-service) ⭐ 159 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-18 - Image comparison and visual regression testing.
+* [Wdi5](https://github.com/js-soft/wdi5) ⭐ 122 | 🐛 29 | 🌐 TypeScript | 📅 2026-10-21 - Cross-platform test framework for hybrid UI5 apps. wdi5 = Webdriver.IO + UI5 Test API + appium.
 * [Intercept](https://github.com/webdriverio-community/wdio-intercept-service) ⭐ 108 | 🐛 39 | 🌐 JavaScript | 📅 2025-03-10 - Capture and assert HTTP ajax calls.
 * [Docker](https://github.com/stsvilik/wdio-docker-service) ⭐ 38 | 🐛 10 | 🌐 TypeScript | 📅 2025-11-24 - Helps run functional/integration tests against/using containerized applications.
 * [ChromeDriver](https://github.com/webdriverio-community/wdio-chromedriver-service) ⚠️ Archived - Run Chrome browser seamlessly when running tests.
@@ -166,4 +166,4 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
