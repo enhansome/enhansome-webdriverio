@@ -21,7 +21,7 @@
                 "open_issues": 14,
                 "owner": "webdriverio",
                 "repo": "visual-testing",
-                "stars": 161,
+                "stars": 163,
                 "topics": [
                   "testing",
                   "visual",
@@ -140,7 +140,7 @@
                 "id": 329027561,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T16:20:05Z",
+                "last_commit": "2026-10-26T01:06:01Z",
                 "open_issues": 9,
                 "owner": "awslabs",
                 "repo": "wdio-aws-device-farm-service",
@@ -892,7 +892,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2024-05-20T11:47:04Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "webdriverio",
                 "repo": "webdriverio-schematics",
                 "stars": 19,
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T13:44:25.206Z",
+    "last_updated": "2026-10-26T16:10:08.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebdriverIO resources, libraries and tools",
