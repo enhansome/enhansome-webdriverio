@@ -21,7 +21,7 @@
                 "open_issues": 14,
                 "owner": "webdriverio",
                 "repo": "visual-testing",
-                "stars": 164,
+                "stars": 165,
                 "topics": [
                   "testing",
                   "visual",
@@ -277,7 +277,7 @@
                 "id": 243283215,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-14T09:08:40Z",
+                "last_commit": "2026-10-29T11:29:47Z",
                 "open_issues": 11,
                 "owner": "LambdaTest",
                 "repo": "wdio-lambdatest-service",
@@ -892,7 +892,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2024-05-20T11:47:04Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "webdriverio",
                 "repo": "webdriverio-schematics",
                 "stars": 19,
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T16:06:53.842Z",
+    "last_updated": "2026-10-29T16:12:52.674Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebdriverIO resources, libraries and tools",
