@@ -3,7 +3,7 @@
 	<br>
 </h3>
 
-**[WebdriverIO](https://github.com/webdriverio/webdriverio) ⭐ 9,864 | 🐛 228 | 🌐 TypeScript | 📅 2026-10-29** Next-gen browser and mobile automation test framework for Node.js
+**[WebdriverIO](https://github.com/webdriverio/webdriverio) ⭐ 9,866 | 🐛 227 | 🌐 TypeScript | 📅 2026-10-30** Next-gen browser and mobile automation test framework for Node.js
 
 # Awesome WebdriverIO with stars
 
@@ -78,7 +78,7 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 * [Intercept](https://github.com/webdriverio-community/wdio-intercept-service) ⭐ 108 | 🐛 39 | 🌐 JavaScript | 📅 2025-03-10 - Capture and assert HTTP ajax calls.
 * [Docker](https://github.com/stsvilik/wdio-docker-service) ⭐ 38 | 🐛 10 | 🌐 TypeScript | 📅 2025-11-24 - Helps run functional/integration tests against/using containerized applications.
 * [ChromeDriver](https://github.com/webdriverio-community/wdio-chromedriver-service) ⚠️ Archived - Run Chrome browser seamlessly when running tests.
-* [AWS Device Farm](https://github.com/awslabs/wdio-aws-device-farm-service) ⭐ 25 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-26 - AWS Device Farm service.
+* [AWS Device Farm](https://github.com/awslabs/wdio-aws-device-farm-service) ⭐ 25 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-30 - AWS Device Farm service.
 * [PerformanceTotal](https://github.com/tzurp/performance-total) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-22 - Analyze performance of test automated flows.
 * [Re-run](https://github.com/jwplayer/wdio-rerun-service) ⭐ 11 | 🐛 5 | 🌐 TypeScript | 📅 2026-02-13 - Tracks failing tests and scenarios, allowing failing or unstable tests or scenarios to be re-run.
 * [Gmail](https://github.com/webdriverio-community/wdio-gmail-service) ⭐ 10 | 🐛 4 | 🌐 TypeScript | 📅 2026-02-09 - Fetch e-mails from Google Mail.
@@ -166,4 +166,4 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
