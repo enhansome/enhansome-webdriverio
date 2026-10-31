@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T15:58:24.310Z",
+    "last_updated": "2026-10-31T15:22:07.657Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebdriverIO resources, libraries and tools",
@@ -1011,7 +1011,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-06-03T19:43:10Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "webdriverio",
       "repo": "awesome-webdriverio",
       "stars": 52,
