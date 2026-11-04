@@ -45,7 +45,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-01T17:28:04Z",
-                "open_issues": 35,
+                "open_issues": 38,
                 "owner": "ui5-community",
                 "repo": "wdi5",
                 "stars": 122,
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T17:07:09.257Z",
+    "last_updated": "2026-11-04T17:19:00.497Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebdriverIO resources, libraries and tools",
