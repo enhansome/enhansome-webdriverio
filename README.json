@@ -17,11 +17,11 @@
                 "id": 181739821,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-07T15:35:51Z",
-                "open_issues": 21,
+                "last_commit": "2026-11-07T16:59:19Z",
+                "open_issues": 15,
                 "owner": "webdriverio",
                 "repo": "visual-testing",
-                "stars": 165,
+                "stars": 166,
                 "topics": [
                   "testing",
                   "visual",
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T15:42:35.235Z",
+    "last_updated": "2026-11-08T16:01:13.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebdriverIO resources, libraries and tools",
