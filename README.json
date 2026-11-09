@@ -48,7 +48,7 @@
                 "open_issues": 38,
                 "owner": "ui5-community",
                 "repo": "wdi5",
-                "stars": 122,
+                "stars": 123,
                 "topics": [
                   "openui5",
                   "sapui5",
@@ -868,7 +868,7 @@
                 "open_issues": 11,
                 "owner": "webdriverio",
                 "repo": "wdio-wait-for",
-                "stars": 20,
+                "stars": 21,
                 "topics": [
                   "selenium",
                   "typesript",
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T16:01:13.845Z",
+    "last_updated": "2026-11-09T19:52:21.820Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebdriverIO resources, libraries and tools",
