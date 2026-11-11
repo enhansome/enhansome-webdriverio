@@ -17,7 +17,7 @@
                 "id": 181739821,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-07T16:59:19Z",
+                "last_commit": "2026-11-11T12:09:17Z",
                 "open_issues": 15,
                 "owner": "webdriverio",
                 "repo": "visual-testing",
@@ -229,7 +229,7 @@
                 "id": 367357716,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-02-09T21:49:49Z",
+                "last_commit": "2026-11-11T12:29:59Z",
                 "open_issues": 4,
                 "owner": "webdriverio-community",
                 "repo": "wdio-gmail-service",
@@ -864,7 +864,7 @@
                 "id": 359545441,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-05-25T16:42:25Z",
+                "last_commit": "2026-11-11T12:13:16Z",
                 "open_issues": 11,
                 "owner": "webdriverio",
                 "repo": "wdio-wait-for",
@@ -891,7 +891,7 @@
                 "id": 347904952,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2024-05-20T11:47:04Z",
+                "last_commit": "2026-11-11T12:17:26Z",
                 "open_issues": 22,
                 "owner": "webdriverio",
                 "repo": "webdriverio-schematics",
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T17:05:51.547Z",
+    "last_updated": "2026-11-11T17:13:13.821Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebdriverIO resources, libraries and tools",
@@ -1010,7 +1010,7 @@
       "id": 365241394,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-06-03T19:43:10Z",
+      "last_commit": "2026-11-11T10:48:36Z",
       "open_issues": 6,
       "owner": "webdriverio",
       "repo": "awesome-webdriverio",
@@ -1021,7 +1021,7 @@
         "testing"
       ]
     },
-    "original_repository_sha": "28788f27a060a5dd88c85120b2809ffd967e99e2",
+    "original_repository_sha": "93aa8db6862e576c3eb3c8c3e5103fdb521a381d",
     "enhanced_repository": "enhansome/enhansome-webdriverio",
     "enhanced_repository_description": null,
     "title": "Awesome WebdriverIO with stars"
