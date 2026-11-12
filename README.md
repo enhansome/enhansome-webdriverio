@@ -3,7 +3,7 @@
 	<br>
 </h3>
 
-**[WebdriverIO](https://github.com/webdriverio/webdriverio) ⭐ 9,880 | 🐛 250 | 🌐 TypeScript | 📅 2026-11-11** Next-gen browser and mobile automation test framework for Node.js
+**[WebdriverIO](https://github.com/webdriverio/webdriverio) ⭐ 9,880 | 🐛 261 | 🌐 TypeScript | 📅 2026-11-12** Next-gen browser and mobile automation test framework for Node.js
 
 # Awesome WebdriverIO with stars
 
@@ -73,12 +73,12 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 
 ### Services
 
-* [Image Comparison (Visual Regression Testing)](https://github.com/wswebcreation/wdio-image-comparison-service) ⭐ 166 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-11 - Image comparison and visual regression testing.
-* [Wdi5](https://github.com/js-soft/wdi5) ⭐ 123 | 🐛 38 | 🌐 TypeScript | 📅 2026-11-01 - Cross-platform test framework for hybrid UI5 apps. wdi5 = Webdriver.IO + UI5 Test API + appium.
+* [Image Comparison (Visual Regression Testing)](https://github.com/wswebcreation/wdio-image-comparison-service) ⭐ 166 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-12 - Image comparison and visual regression testing.
+* [Wdi5](https://github.com/js-soft/wdi5) ⭐ 123 | 🐛 39 | 🌐 TypeScript | 📅 2026-11-01 - Cross-platform test framework for hybrid UI5 apps. wdi5 = Webdriver.IO + UI5 Test API + appium.
 * [Intercept](https://github.com/webdriverio-community/wdio-intercept-service) ⭐ 108 | 🐛 39 | 🌐 JavaScript | 📅 2025-03-10 - Capture and assert HTTP ajax calls.
 * [Docker](https://github.com/stsvilik/wdio-docker-service) ⭐ 38 | 🐛 10 | 🌐 TypeScript | 📅 2025-11-24 - Helps run functional/integration tests against/using containerized applications.
 * [ChromeDriver](https://github.com/webdriverio-community/wdio-chromedriver-service) ⚠️ Archived - Run Chrome browser seamlessly when running tests.
-* [AWS Device Farm](https://github.com/awslabs/wdio-aws-device-farm-service) ⭐ 25 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-30 - AWS Device Farm service.
+* [AWS Device Farm](https://github.com/awslabs/wdio-aws-device-farm-service) ⭐ 25 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-12 - AWS Device Farm service.
 * [PerformanceTotal](https://github.com/tzurp/performance-total) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-22 - Analyze performance of test automated flows.
 * [Re-run](https://github.com/jwplayer/wdio-rerun-service) ⭐ 11 | 🐛 5 | 🌐 TypeScript | 📅 2026-02-13 - Tracks failing tests and scenarios, allowing failing or unstable tests or scenarios to be re-run.
 * [Gmail](https://github.com/webdriverio-community/wdio-gmail-service) ⭐ 10 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-11 - Fetch e-mails from Google Mail.
@@ -117,8 +117,8 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 
 ### Miscellaneous
 
-* [wdio-wait-for](https://github.com/webdriverio-community/wdio-wait-for) ⭐ 21 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-11 - A lightweight library of useful expected conditions for the WebdriverIO framework.
-* [@wdio/schematics](https://github.com/webdriverio/webdriverio-schematics) ⭐ 19 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-11 - A schematic to add WebdriverIO to an Angular project.
+* [wdio-wait-for](https://github.com/webdriverio-community/wdio-wait-for) ⭐ 21 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-12 - A lightweight library of useful expected conditions for the WebdriverIO framework.
+* [@wdio/schematics](https://github.com/webdriverio/webdriverio-schematics) ⭐ 19 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-12 - A schematic to add WebdriverIO to an Angular project.
 * [@rbnx/webdriverio](https://github.com/Roozenboom/rbnx/tree/main/packages/webdriverio) ⭐ 10 | 🐛 3 | 🌐 TypeScript | 📅 2024-01-16 - Nx plugin that adds WebdriverIO support to a Nx workspace.
 * [@badisi/wdio-harness](https://github.com/Badisi/wdio-harness) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-24 - WebdriverIO support for Angular component test harnesses.
 * [@rahularanger/WTicks](https://github.com/RahulARanger/WTicks) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2023-06-17 - A tool for exporting Selenium `.side` files into a WebdriverIO script.
@@ -166,4 +166,4 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
