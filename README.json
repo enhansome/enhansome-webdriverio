@@ -17,8 +17,8 @@
                 "id": 181739821,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-12T11:30:47Z",
-                "open_issues": 15,
+                "last_commit": "2026-11-14T15:36:14Z",
+                "open_issues": 24,
                 "owner": "webdriverio",
                 "repo": "visual-testing",
                 "stars": 166,
@@ -325,7 +325,7 @@
                 "open_issues": 4,
                 "owner": "Cubenest",
                 "repo": "rrweb-stack",
-                "stars": 8,
+                "stars": 9,
                 "topics": [
                   "ai-coding-agent",
                   "apache-2",
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T17:14:51.703Z",
+    "last_updated": "2026-11-14T15:51:32.729Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebdriverIO resources, libraries and tools",
