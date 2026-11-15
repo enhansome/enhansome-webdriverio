@@ -683,7 +683,7 @@
                 "open_issues": 28,
                 "owner": "webdriverio-community",
                 "repo": "wdio-cucumberjs-json-reporter",
-                "stars": 22,
+                "stars": 23,
                 "topics": [
                   "cucumber",
                   "cucumberjs",
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T15:51:32.729Z",
+    "last_updated": "2026-11-15T16:24:45.794Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebdriverIO resources, libraries and tools",

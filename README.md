@@ -3,7 +3,7 @@
 	<br>
 </h3>
 
-**[WebdriverIO](https://github.com/webdriverio/webdriverio) ⭐ 9,883 | 🐛 265 | 🌐 TypeScript | 📅 2026-11-13** Next-gen browser and mobile automation test framework for Node.js
+**[WebdriverIO](https://github.com/webdriverio/webdriverio) ⭐ 9,884 | 🐛 270 | 🌐 TypeScript | 📅 2026-11-15** Next-gen browser and mobile automation test framework for Node.js
 
 # Awesome WebdriverIO with stars
 
@@ -105,7 +105,7 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 
 * [Timeline](https://github.com/QualityOps/wdio-timeline-reporter) ⭐ 34 | 🐛 37 | 🌐 HTML | 📅 2022-12-30 - Report results in an aggregated visualisation interface.
 * [Report Portal](https://github.com/borisosipov/wdio-reportportal-reporter) ⭐ 24 | 🐛 23 | 🌐 TypeScript | 📅 2023-11-02 - Report results to Report Portal.
-* [CucumberJS](https://github.com/wswebcreation/wdio-cucumberjs-json-reporter) ⭐ 22 | 🐛 28 | 🌐 TypeScript | 📅 2025-11-18 - Report results in CucumberJS JSON format.
+* [CucumberJS](https://github.com/wswebcreation/wdio-cucumberjs-json-reporter) ⭐ 23 | 🐛 28 | 🌐 TypeScript | 📅 2025-11-18 - Report results in CucumberJS JSON format.
 * [Mochawesome](https://github.com/fijijavis/wdio-mochawesome-reporter) ⭐ 16 | 🐛 4 | 🌐 JavaScript | 📅 2026-01-21 - Report results in Mochawesome format.
 * [JSON](https://github.com/fijijavis/wdio-json-reporter) ⭐ 13 | 🐛 4 | 🌐 JavaScript | 📅 2024-08-30 - Report results in JSON format.
 * [Teamcity](https://github.com/webdriverio-community/wdio-teamcity-reporter) ⭐ 6 | 🐛 6 | 🌐 JavaScript | 📅 2025-10-27 - Report results to the build results page of Teamcity Portal.
@@ -166,4 +166,4 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
