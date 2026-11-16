@@ -3,7 +3,7 @@
 	<br>
 </h3>
 
-**[WebdriverIO](https://github.com/webdriverio/webdriverio) ⭐ 9,884 | 🐛 270 | 🌐 TypeScript | 📅 2026-11-15** Next-gen browser and mobile automation test framework for Node.js
+**[WebdriverIO](https://github.com/webdriverio/webdriverio) ⭐ 9,883 | 🐛 273 | 🌐 TypeScript | 📅 2026-11-16** Next-gen browser and mobile automation test framework for Node.js
 
 # Awesome WebdriverIO with stars
 
@@ -80,7 +80,7 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 * [ChromeDriver](https://github.com/webdriverio-community/wdio-chromedriver-service) ⚠️ Archived - Run Chrome browser seamlessly when running tests.
 * [AWS Device Farm](https://github.com/awslabs/wdio-aws-device-farm-service) ⭐ 25 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-12 - AWS Device Farm service.
 * [PerformanceTotal](https://github.com/tzurp/performance-total) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-22 - Analyze performance of test automated flows.
-* [Re-run](https://github.com/jwplayer/wdio-rerun-service) ⭐ 11 | 🐛 5 | 🌐 TypeScript | 📅 2026-02-13 - Tracks failing tests and scenarios, allowing failing or unstable tests or scenarios to be re-run.
+* [Re-run](https://github.com/jwplayer/wdio-rerun-service) ⭐ 11 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-13 - Tracks failing tests and scenarios, allowing failing or unstable tests or scenarios to be re-run.
 * [Gmail](https://github.com/webdriverio-community/wdio-gmail-service) ⭐ 10 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-11 - Fetch e-mails from Google Mail.
 * [WireMock](https://github.com/erwinheitzman/wdio-wiremock-service) ⭐ 10 | 🐛 1 | 🌐 TypeScript | 📅 2024-02-21 - Run WireMock seamlessly when running tests.
 * [LambdaTest](https://github.com/LambdaTest/wdio-lambdatest-service) ⭐ 9 | 🐛 11 | 🌐 JavaScript | 📅 2026-10-29 - Manage tunnel and job metadata for LambdaTest users.
@@ -166,4 +166,4 @@ Inspired by the [awesome](https://awesome.re) list. Feel free to improve this li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._

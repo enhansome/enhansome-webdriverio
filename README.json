@@ -189,7 +189,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-02-13T20:50:45Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "webdriverio-community",
                 "repo": "wdio-rerun-service",
                 "stars": 11,
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T16:24:45.794Z",
+    "last_updated": "2026-11-16T19:39:35.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebdriverIO resources, libraries and tools",
