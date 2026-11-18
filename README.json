@@ -140,8 +140,8 @@
                 "id": 329027561,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-12T00:50:56Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-18T10:26:26Z",
+                "open_issues": 4,
                 "owner": "awslabs",
                 "repo": "wdio-aws-device-farm-service",
                 "stars": 25,
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T18:37:22.975Z",
+    "last_updated": "2026-11-18T18:08:21.673Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebdriverIO resources, libraries and tools",
