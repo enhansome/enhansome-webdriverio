@@ -17,8 +17,8 @@
                 "id": 181739821,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-14T15:36:14Z",
-                "open_issues": 24,
+                "last_commit": "2026-11-21T15:37:18Z",
+                "open_issues": 25,
                 "owner": "webdriverio",
                 "repo": "visual-testing",
                 "stars": 166,
@@ -45,7 +45,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-19T12:40:00Z",
-                "open_issues": 38,
+                "open_issues": 39,
                 "owner": "ui5-community",
                 "repo": "wdi5",
                 "stars": 123,
@@ -680,7 +680,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2025-11-18T16:43:15Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "webdriverio-community",
                 "repo": "wdio-cucumberjs-json-reporter",
                 "stars": 23,
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T17:51:28.046Z",
+    "last_updated": "2026-11-21T16:49:27.765Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebdriverIO resources, libraries and tools",
