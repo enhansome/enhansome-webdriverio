@@ -21,7 +21,7 @@
                 "open_issues": 24,
                 "owner": "webdriverio",
                 "repo": "visual-testing",
-                "stars": 166,
+                "stars": 167,
                 "topics": [
                   "testing",
                   "visual",
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T20:12:05.905Z",
+    "last_updated": "2026-11-25T19:21:58.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebdriverIO resources, libraries and tools",
